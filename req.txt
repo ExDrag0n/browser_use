@@ -5,3 +5,4 @@ aiohttp
 aiofiles
 browser_use
 gradio
+uvicorn
