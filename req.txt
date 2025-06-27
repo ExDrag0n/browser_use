@@ -4,3 +4,4 @@ redis
 aiohttp
 aiofiles
 browser_use
+gradio
